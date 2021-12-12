@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"hnw.vscode-auto-open-markdown-preview",
+		"bierner.lit-html",
+		"bradlc.vscode-tailwindcss"
+	]
+}

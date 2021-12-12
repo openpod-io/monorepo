@@ -1,0 +1,13 @@
+{
+  "name": "openpod",
+  "version": "0.0.0",
+  "scripts": {
+    "setup": "lerna bootstrap",
+    "dev:app": "lerna run dev --stream --scope @openpod/app",
+    "test:app": "lerna run test --stream --scope @openpod/app",
+    "test:components": "lerna run test --stream --scope @perspective/components"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

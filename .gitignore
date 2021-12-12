@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules
+dist
+*.local
+*.lock
+*.log
+
+packages/**/node_modules
+packages/**/dist
+packages/**/lib
